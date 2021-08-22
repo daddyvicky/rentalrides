@@ -3,4 +3,4 @@ vehicle renting site.
 
 # DEMO:
 
-![alt text](./RentalRides - Re.png)
+![alt text](https://github.com/daddyvicky/rentalrides/blob/main/RentalRides%20-%20Re.png)
